@@ -15,6 +15,7 @@ Great! You just find out my GitHub profile!
 - 🏃‍♂️ Sports: I learned Boxing🥊 / Taekwondo, Judo🥋 / Fencing🤺 ...
 - 📫 Contact: If for anyreason that you want to contact me: peng.gao1102@gmail.com
 
-[![RedCarpG's github stats](https://github-readme-stats.vercel.app/api?username=REDCARPG&theme=gruvbox)](https://github.com/REDCARPG/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REDCARPG&layout=compact&theme=gruvbox)](https://github.com/REDCARPG/github-readme-stats)
+|       |       |
+| ----- | ----- |
+| [![RedCarpG's github stats](https://github-readme-stats.vercel.app/api?username=REDCARPG&theme=gruvbox)](https://github.com/REDCARPG/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REDCARPG&layout=compact&theme=gruvbox)](https://github.com/REDCARPG/github-readme-stats) |
+|       |       |
